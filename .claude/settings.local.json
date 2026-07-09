@@ -37,7 +37,11 @@
       "Bash(git branch *)",
       "Bash(git remote *)",
       "Bash(git rm *)",
-      "Bash(rm -rf /mnt/c/Users/tburg/Top10PromWebsite/top-10-prom-ecosystem/apps/brand-network-web/.git)"
+      "Bash(rm -rf /mnt/c/Users/tburg/Top10PromWebsite/top-10-prom-ecosystem/apps/brand-network-web/.git)",
+      "Bash(tee /tmp/next-build.log)",
+      "Bash(git push *)",
+      "Bash(npx tsx *)",
+      "Bash(node /mnt/c/Users/tburg/Top10PromWebsite/top-10-prom-ecosystem/node_modules/.pnpm/drizzle-kit@0.31.10/node_modules/drizzle-kit/bin.cjs check)"
     ]
   }
 }
